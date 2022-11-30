@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake animation](https://github.com/AzaradoChan/AzaradoChan/blob/output/github-contribution-grid-snake2.svg)
+
 <!--
 **AzaradoChan/AzaradoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
