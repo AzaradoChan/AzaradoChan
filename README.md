@@ -1,5 +1,4 @@
-##Olá!! Eu sou Vitor Garcia!
-
+## Olá!! Eu sou Vitor Garcia, e estou me formando em Engenharia de Software no IF 😄
 <div align="center">
   <a href="https://github.com/azaradochan">
     <img height=180em width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=azaradochan&show_icons=true&theme=tokyonight&locale=pt-br&bg_color=000000&title_color=FFFFFF&icon_color=F09A05&text_color=EBEBEB&rank_icon=github&ring_color=F5BD02&text_bold=false" />
